@@ -1,0 +1,5 @@
+Coba bikin tulisan resolusi kaya tutorial biar ngerti commit git
+
+Daftar Resolusi:
+1. Belajar Web Programming
+2. Kerja
